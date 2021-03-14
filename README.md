@@ -1,6 +1,9 @@
 # csound-web
 demo of the csound library through Web Audio API
 
+## live demo
+https://thesoundofaiosr.github.io/csound-web/index.html
+
 ## version
 csound-web-6.15.0
 ## reference
